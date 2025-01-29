@@ -1,0 +1,35 @@
+body { font-family: 'Fira Sans', 'Open Sans', Verdana, sans-serif, serif; }
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
+header { box-shadow: 0 1px 0 1px rgba(0, 0, 0, 25%); }
+footer p > span { color: tomato; }
+
+header h1.app-title a {
+	text-decoration: none;
+	font-weight: 400;
+	color: #f9f9f9;
+}
+
+/* HomePage */
+.content-container--vehiclesAdding { color: tomato; }
+
+.vehicles-container .card img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+.customize-btn { justify-content: space-around; }
+
+/* Delete Page */
+main.delete-page { padding: 6em 0; }
+main.delete-page .delete { width: 60%; }
+main.delete-page .btn-container .btn { margin-right: 1em; }
+
+/* Add Page */
+main.add-page { padding-bottom: 2.5em; }
+
+main.add-page .add-form {
+	width: 75%;
+	border-radius: 0.5em;
+	background-color: #ececec60;
+}

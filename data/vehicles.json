@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Mercedes Benz",
+        "type": "Database",
+        "price": "123000",
+        "image": "..\/assets\/images\/third.png"
+    },
+    {
+        "name": "BAJAJ Discover 125CC",
+        "type": "Bike",
+        "price": "26000",
+        "image": "..\/assets\/images\/youtube_video.png"
+    },
+    {
+        "name": "Lamborghini",
+        "type": "Cars",
+        "price": "25000",
+        "image": "https:\/\/media.wired.com\/photos\/6423826d7f6ce88e606d7b55\/16:9\/w_1900,h_1069,c_limit\/Lamborghini-Revuelto-Featured-Gear.jpg"
+    },
+    {
+        "name": "Moto GP",
+        "type": "Bike",
+        "price": "10000",
+        "image": "https:\/\/media.wired.com\/photos\/6423826d7f6ce88e606d7b55\/16:9\/w_1900,h_1069,c_limit\/Lamborghini-Revuelto-Featured-Gear.jpg"
+    }
+]
